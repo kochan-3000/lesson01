@@ -1,0 +1,4 @@
+diff a/1-1/main.js b/1-1/main.js	(rejected hunks)
+@@ -0 +0 @@
+-console.log("Helloaaa World");
++console.log("Hello World");
