@@ -1,5 +1,4 @@
-const profiles = {
-  profiles: [
+const profiles =[ 
     {
       name: "佐藤",
       age: 22
@@ -17,4 +16,8 @@ const profiles = {
       age: 15
     }
   ]
-}
+
+console.log(profiles[0])
+console.log(profiles[1])
+console.log(profiles[2])
+console.log(profiles[3])
