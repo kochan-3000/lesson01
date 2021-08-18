@@ -1,0 +1,5 @@
+const word = process.argv[2]
+const arr = word.split
+var1=0;
+for(constnumberofarr){i++}
+consol.log(i)

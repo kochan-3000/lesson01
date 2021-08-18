@@ -1,8 +1,3 @@
-let arr=["T","e","c","h",".","U","n","i"]
-let arr1=arr.length
-let x="";
-for(let j=0;j<arr1;j++){x+=arr[j];}
-console.log(x);
 function floor(num) {
 }
 function round(num) {
